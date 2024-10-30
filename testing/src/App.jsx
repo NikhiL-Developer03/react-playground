@@ -1,12 +1,12 @@
 import React from 'react'
 import './App.css'
-import Array from './components/Array'
-import Array_of_object from './components/Array_of_object'
+import LoginForm from './components/LoginForm'
+import MyLogin from './components/MyLogin'
+import MyForm from './components/MyForm'
 function App() {
   return (
     <>
-      <Array/>
-      <Array_of_object/>
+    <MyForm/>
     </>
   )
 }

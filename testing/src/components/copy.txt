@@ -1,0 +1,1 @@
+username, email, passsword ,confermpasseord, gender , date,city,address
